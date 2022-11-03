@@ -1,0 +1,8 @@
+hero_names,Agility,Accelerated Healing,Lantern Power Ring,Dimensional Awareness,Cold Resistance,Durability,Stealth,Energy Absorption,Flight,Danger Sense,Underwater breathing
+Ant-Man,False,False,False,False,False,False,False,False,False,False,False
+Batman,True,False,False,False,False,True,True,False,False,False,True
+Godzilla,True,False,False,False,False,True,False,True,False,True,False
+Isis,False,True,False,False,False,True,False,False,True,False,False
+Professor X,False,False,False,False,False,False,False,False,False,False,False
+Spider-Girl,True,True,False,False,False,False,True,False,False,True,False
+Wonder Woman,False,True,False,False,False,True,False,False,True,False,False

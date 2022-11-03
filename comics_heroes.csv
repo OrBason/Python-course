@@ -1,0 +1,8 @@
+hero_id,name,Gender,Eye color,Race,Hair color,Height,Publisher,Alignment,Weight
+29,Ant-Man,Male,blue,Human,Blond,211,Marvel Comics,good,122
+68,Batman,Male,blue,Human,Blond,188,DC Comics,good,95
+286,Godzilla,Godzilla,yellow,Kaiju,black,108,Classic,bad,2000
+347,Isis,Female,blue,Human,Black,-99,DC Comics,good,-99
+528,Professor X,Male,blue,Mutant,No Hair,183,Marvel Comics,good,86
+620,Spider-Girl,Female,blue,Human,Brown,170,Marvel Comics,good,54
+722,Wonder Woman,Female,blue,Amazon,Black,183,DC Comics,good,74
